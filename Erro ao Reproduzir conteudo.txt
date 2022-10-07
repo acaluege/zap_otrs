@@ -1,0 +1,24 @@
+Despiste:
+1. Primeiro questionar o tipo de conteudo que o cliente vizualiza ou deseja:
+>>>>>>1.1. VOD?
+>>>>>>1.2. Gravação?
+>>>>>>1.3. Live?
+
+2. Verificar Direitos, caso não exista deve-se pedir autorização ao carlos para o reenvio dos direitos;
+3. Verificar os pedidos CDNs para esse cliente;
+4. Verificar os pedidos no Wowza para esse cliente?
+>>>>No Kibana Filtrar:
+------> WOWZA:
+------>c_client_id:*10.152.72.122
+Nota: Testar os filros nos Wowza
+
+5. Verificar os pedidos no manifest_proxy?
+----------------------------------------------------
+Nota: Verificar se o cliente
+Linha Vermelho - não é erro depois de 2h na troca da box o processo expira e fica avermelhado
+
+------
+Verificar também se a STB existe no DRM controlar a mensagem no BO
+"STB not find in DRM"
+caso existir então pergunta na equipe se pode reeviar os direitos e se não resultar copia o ID do reenvio dos direitos
+e manda para alguem do team.

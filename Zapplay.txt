@@ -1,0 +1,5 @@
+# Cliente não consegue aceder ao ZAPPLAY
+
+Erro: Não esta dentro da rede ZAP
+
+Nota: Passar para a rede IP
